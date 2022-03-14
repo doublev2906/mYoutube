@@ -1,0 +1,2 @@
+rootProject.name = "mYoutube"
+include ':app'
